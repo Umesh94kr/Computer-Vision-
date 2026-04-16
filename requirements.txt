@@ -1,7 +1,7 @@
 mlflow
 torch
-torchvision 
 pandas 
 numpy
 opencv-contrib-python
 selectivesearch
+tqdm
